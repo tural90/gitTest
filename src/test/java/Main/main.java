@@ -4,10 +4,9 @@ public class main {
 
     public static void main(String[] args) {
 
-        //local
+        //changes made to remote class 1
     }
 }
 
 
 
-//remote
