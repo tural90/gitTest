@@ -6,6 +6,7 @@ public class main {
         // made to remote class
         //changes made to remote class 1
         //remote addition
+            qw  qw  qw  
     }
 }
 
